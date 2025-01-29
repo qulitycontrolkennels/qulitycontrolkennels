@@ -37,4 +37,12 @@
 
         <section id="available-puppies">
             <h2>Available Puppies</h2>
-            <p>We currently have
+            <p>We currently have no available puppies. Please check back later for updates.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Quality Control Kennels. All rights reserved.</p>
+    </footer>
+</body>
+</html>
