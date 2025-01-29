@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quality Control Kennels</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Quality Control Kennels</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#productions">Productions</a></li>
+                <li><a href="#available-puppies">Available Puppies</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to Quality Control Kennels! We specialize in breeding XL American Bullies with a focus on quality and temperament. Our passion for dogs drives us to produce the best companions for families and individuals alike.</p>
+            <p>At Quality Control Kennels, we ensure that each puppy is raised in a loving environment and receives the best care. We believe in responsible breeding practices and are committed to the health and well-being of our dogs.</p>
+        </section>
+
+        <section id="productions">
+            <h2>Productions</h2>
+            <p>Our breeding program focuses on producing high-quality XL American Bullies. We carefully select our breeding pairs based on health, temperament, and conformation to breed standards. Here are some of our notable productions:</p>
+            <ul>
+                <li>Production 1: Description of the breeding pair and their qualities.</li>
+                <li>Production 2: Description of the breeding pair and their qualities.</li>
+                <li>Production 3: Description of the breeding pair and their qualities.</li>
+            </ul>
+        </section>
+
+        <section id="available-puppies">
+            <h2>Available Puppies</h2>
+            <p>We currently have
